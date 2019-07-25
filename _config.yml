@@ -3,7 +3,7 @@ title: Michael Brunton-Spall on ...
 description: The thoughts and musings of MBS
 google_analytics: UA-10958516-1
 paginate: 1
-permalink: /:year/:month/:title
+permalink: /post/:year/:month/:day/:title
 
 
 plugins:
