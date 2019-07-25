@@ -1,0 +1,58 @@
+---
+layout: default
+status: publish
+published: true
+title: 2013 In Review
+author: Michael Brunton-Spall
+featured:
+  preview: /images/uploads/2013/12/5524669257_c5eefe7205_o-300x146.jpg
+  large: /images/uploads/2013/12/5524669257_c5eefe7205_o.jpg
+  caption: [TO BE MIGRATED]
+  url: [TO BE MIGRATED]
+author_login: bruntonspall
+author_email: michael@brunton-spall.co.uk
+author_url: http://www.brunton-spall.co.uk
+wordpress_id: 9788
+wordpress_url: http://www.brunton-spall.co.uk/?p=9788
+date: '2013-12-31 18:56:10 +0000'
+date_gmt: '2013-12-31 18:56:10 +0000'
+categories:
+- personal
+- featured
+tags:
+- '2013'
+- newyear
+comments: true
+---
+It's the new year, and as should be typical, it's probably time to write an update on my blog about what I've done this year.
+
+It's been an interesting year. After 6 years of working at the Guardian, I felt it was time to move on to a job as an Architect at the Government Digital Service.
+<!--more-->
+My focus at the new job has been on the Transformation program, or helping departments to replicate what the Government Digital Service. That has meant a lot of travel, I've spent 4 days a week in Birmingham for most of October thought December, and I expect to spend at least 3 days a week in Coventry and Birmingham until April this coming year.<br />
+That's meant a bunch of changes in the way we work as a family this year, since I've been away a lot more, and it's been tricky to navigate all of the issues.<br />
+One of the good things of this has been to focus my attention on the time that I spend with my family. Previously I was a pretty absent parent and husband, always on my phone or laptop and not really paying attention. Since the new job and the travel, I've been trying to pay more attention to the family when I'm around. I think that's a pretty good plus point.
+
+What else has happened this year? I like to think about what I've failed to do this year mostly, because it helps me focus on what I want to do more of in the coming year (the things that I feel I've failed at are obviously the things that I cared about this year).
+
+I feel like there are three main areas for me (professionally):
+
+<ul>
+<li>Blogging</li>
+<li>Studying business and management</li>
+<li>Working on side projects</li>
+</ul>
+I didn't write as much on my blog as I wanted. I have about 6 draft blog posts sitting either in WordPress or on Poetica waiting to be fully written up, and I really keep meaning to write more. For some reason, I find the act of writing hard to get out of my head and down onto the screen. In my head there are sentences and paragraphs and great things, but I struggle to actually articulate them into the words on the screen that mean the right things.
+
+Secondly, My Management Book review series. I have read a few books on management this year, because I really do feel like a developer needs to understand the context of the business (and we do ourselves a disservice by just being the tech department). However, the act of reviewing the book, writing up my notes and publishing them has gotten behind. I have notes on 3 further management books, but just haven't got around to writing them up. Because of this delay in writing up my notes, I've prevaricated on picking up a new book, because I feel it only adds to that backlog.
+
+Thirdly, I didn't focus on any side projects to completion, nor open source anything interesting this year. I often look around at my talented coworkers and wonder where they get the time and energy to do all of these wonderful things, and then I remember my folder of half finished projects. This year I've started: Scala Roguelike, Docker based Wordpress, Sumlink, Commtron, Router, VisualDiary and more, but I seem to struggle to get beyond a prototype.
+
+I think one of the things that I've most learnt from this year is connected with this trove of half finished project and the move to a new job. I really love starting things, much more so that following through and delivering things. Building that prototype and doing the discovery of a new problem is the thing that interests me the most.<br />
+One of the nice things that GDS has allowed me to do is move to projects that are starting and help them get up and running.
+
+My "resolutions" for want of a better word, are to do with completing things. I am resolving this year to focus on one or two side projects at a time, and attempt to get them to a state where I can make them public in some way.<br />
+Secondly, I resolve to publish more of my blog posts, even in their draft state. I might look around for some friends who don't mind reviewing them, if you would like to help out there, let me know and I'll add you on poetica or send you drafts as appropriate.<br />
+Finally, I'm going to try to work on completing a few more things this year. While I feel more and more that my role in life is to be the "catalyst" in helping to start various things, I think there's a huge value in someone like me following a few things through.
+
+Hopefully this next year will include some new endings, and many more new beginnings.
+

@@ -1,0 +1,90 @@
+---
+layout: default
+status: publish
+published: true
+title: Clearing up some myths about AV
+author: Michael Brunton-Spall
+author_login: bruntonspall
+author_email: michael@brunton-spall.co.uk
+author_url: http://www.brunton-spall.co.uk
+wordpress_id: 414
+wordpress_url: http://www.brunton-spall.co.uk/?p=414
+date: '2011-04-28 00:10:24 +0000'
+date_gmt: '2011-04-28 00:10:24 +0000'
+categories:
+- rants
+- featured
+tags:
+- yes2av
+- no2av
+- politics
+comments: true
+---
+I've been thinking about the AV question a lot recently, partly because it's happening here and now, partly because it's naturally been the talk of the office and partly because I find the whole area quite fascinating.
+
+People seem to fall into one of 2 categories, either they have a strong opinion, or they aren't interested.  Those of a strong opinion appear to refuse to be convinced either way, and those who don't really care probably wont vote anyway.  Despite this there has been a lot of media coverage, political talking and leaflets that have tried to convince people one way or the other.
+
+Personally, I'm all for AV and leaflets like the <a href="http://imgur.com/a/hgmbQ" target="_blank">recent no to av leaflet</a> made me even more convinced to vote yes to AV, but a discussion with one of my brighter friends who is opposed has made me realise that I need more than a gut feeling for why I'm voting yes.
+
+<!--more-->
+Firstly, much of what the politicians are saying is complete rubbish, and that's sadly from both sides.  Both systems give each person one vote, both have possibilities to be unfair and I'm not really sure what that word "fair" even means for a voting system.
+
+However there are a few things that I think are valid criticisms, and deserve to be addressed
+
+## 1. AV will negate tactical voting
+This is one from the pro-AV side, they claim that tactical voting wont happen under AV.  For those who need a reminder, tactical voting is where you want to vote Lib-Dem, but in your area that's a "wasted vote", so you vote Conservative to prevent the Labour candidate from getting in.
+
+The claim is that you can validly order your votes 1- Lib-Dem, 2-Conservative, 3-Labour which doesn't waste your vote, but if Lib-Dems really have no chance of winning means your vote will be transfered to the Conservative candidate over the Labour one.
+
+The problem is that lets imagine a far more realistic example, say Bennelong, Australia which has 11 candidates from One Nation, Christian Democratic Party, Australian Sex Party, Carers Alliance, Family First, The Climate Sceptics, The Greens, Labor, Building Australia, Liberal and Liberal Democrats.  In 2010, the initial votes varied from 170 to 41,582 depending on the party.
+
+Ignoring the smaller parties, the race was set between Liberal and Labor with 48.53% and 37.12% respectively (the next party had 7.95%).  By the time we reach the 8th preference it's a 4 horse race, only Liberal (49.55%), Labor(37.9%), Green(9.17%) and CDP(3.38%) are left in, the CDP is knocked out and it's votes transfer about 50% to Liberal, 30% to green and 20% to Labor.  That tips Liberal over the edge and into the 50% margin needed to win.
+
+In this race, tactical voting on behalf of the green party if you support labour is worth it, your vote for green could have given labor the win if you'd picked them as a higher preference.  I picked this constituency more or less at random (it had a large number of candidates and is early in the alphabet), but in even closer races you can imagine tactical voting still being needed.
+
+## 2. It's not good enough AV
+This follows on from the above point.  My vague understanding of the british AV proposal is that the voting and reducing stops as soon as someone reaches 50%.  The australian system appears (and I could be wrong here, but the data seems to suggest that this is the case) to continue transfering votes until only 2 parties remain.  In the above case, the data doesn't stop at the 9th vote with 3 parties (one over 50%), it runs a 10th vote where the Green party is transfered, 80% (or 7000 votes) goes to Labor, but it's not quite enough to beat out the Liberals who win with 53% of the vote.
+
+In this case even if Labor had got 100% of Green votes it wouldn't have changed the outcome, but you can imagine states where this might be the case, and running those last rounds could change the result of the election.
+
+However, in those rather rare cases, I believe that first past the post, which is in essence taking the first round of AV and declaring the person with the most the winner, would also suffer from the same problem.
+
+## 3. Not everybodies vote will count
+The AV we use is also called Optional Preferential Voting, which means you don't have to vote for everybody, you can just say put a single vote for the australian sex party and your vote won't be transfered if they get knocked out.
+
+In the australian system, most states use full preferential voting, where you must rank the candidates in order at all times, but Queensland and New South Wales use the same as we are suggesting.
+
+This is actually the best objection I've heard against our form of AV, so I'll explain the problem:
+
+If we start with 5 parties, but lets say that everybody voting for Party A is fanatical and wont vote for any other party.  Let's also say that party A is 10% of the first round of voting and they get knocked out.  In the next round of voting, the total number of votes counted is 10% less than in round 1, thus getting 50% of that vote does not mean you got 50% of the people who voted in the first round, and therefore the electorate as a whole.
+
+It's a pretty good argument, and it's the thing that inspired me to go get the <a href="http://results.aec.gov.au/15508/Website/Default.htm" target="_blank">raw data</a> from australia and start researching into this.  Because lets face it, even if some people get knocked out, most races just aren't that close that the knocked out ones who didn't transfer are that relevant right?
+
+Well for that I needed 2 core pieces of data, the total people in each round and the transfer votes, and I couldn't find them (the australian data always seems to have the same total as ending number making me suspect I've got the wrong data source), but <a href="http://blogs.lse.ac.uk/politicsandpolicy/2011/04/07/australia-and-av/" target="_blank">Antony Green for the London School of Economics</a> has crunched the data and the results kind of surprised me.
+
+In essence in Queensland of the 90 odd elections that happen each year, theres normally about 3 - 6 where the candidate didn't have 50% of the original voters when they got their 50% at the end.  That's a small enough error margin for me.  However for some reason New South Wales has a rather bad looking trendline, from 1981 through to now, it's gone from 1-2 in 100 to around 20 in 100. Thats enough to potentially be significant, but without access to the raw stats, it's difficult to calculate how disenfranchised the votes have become and posit any reason why this is happening
+
+The fact remains that while it's possible with our slightly limited AV to get results that might not be the true majority, it's still in most cases going to produce a representative who has a majority backing to far more of an extent than FPTP will.
+
+&nbsp;
+
+When it boils down to it my reason for Voting Yes to AV is that I believe that change is a necessary part of life, the act of changing will resolve some of these issues in some peoples minds, and will clear out some of the electoral cobwebs.  Sure I'd rather have full preferential voting AV, or Proportional Representation than the AV we're being offered, but I suspect that a No to AV result will be argued successfully that it's a no to electoral reform of any sort, and I'd rather have AV electoral reform than nothing.
+
+References:
+
+<a href="http://blogs.lse.ac.uk/politicsandpolicy/2011/04/07/australia-and-av/" target="_blank">Australia and AV</a>
+
+<a href="http://www.guardian.co.uk/world/audio/2011/apr/12/guardian-focus-podcast-av-referendum" target="_blank">Guardian Focus podcast: The AV Referendum </a>
+
+<a href="http://results.aec.gov.au/15508/Website/Default.htm" target="_blank">Australian Voting Records and Data</a>
+
+<a href="http://www.electoral-reform.org.uk/" target="_blank">Campaign for Electoral Reform</a>
+
+<a href="http://imgur.com/a/hgmbQ" target="_blank">That No to AV leaflet explained</a>
+
+<a href="http://www.guardian.co.uk/commentisfree/2011/apr/03/observer-editorial-electoral-reform" target="_blank">Do we want a fairer election system? Then the only answer is a Yes vote</a>
+
+<a href="http://abigq.tumblr.com/post/4987023583/a-graph-titled-where-shall-we-go-to-drink" target="_blank">AV vs FPTP as Beer vs Coffee</a>
+
+&nbsp;
+

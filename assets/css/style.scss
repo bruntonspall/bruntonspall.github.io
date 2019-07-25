@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.masthead {
+padding-top: 1rem;
+padding-bottom: 1rem;
+margin-bottom: 2rem;
+color: #fff;
+}
+.masthead a {
+    color: #fff;
+}
+
+.masthead a:visited {
+    color: #fff;
+}
+
+.masthead small {
+    font-size: 75%;
+}
+
+a {
+    color: #222222;
+}
+
+.previous {
+    text-align: right;
+}
+
+.next {
+    text-align: left;
+}
