@@ -8,3 +8,4 @@ permalink: /post/:year/:month/:day/:title/
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
