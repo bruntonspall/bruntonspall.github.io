@@ -83,3 +83,17 @@ Once you've got this in, you should be able to start the AWS Workspaces client, 
 I've [created some simple scripts to create CA and client keys](https://github.com/bruntonspall/AWSWorkspacesCA) for you which you might find useful if you are doing the same thing.
 
 I hope this helps you, I'm mostly impressed with Workspaces as a remote desktop solution, it does what it says on the tin, and ensures that my cloud data stays in the cloud, and not on the laptop that can be left in a pub, stolen on the train or otherwise lost.
+
+### Addendum: A better approach for MacOS
+
+Some feedback on my approach outlined here has a more scalable approach if you are deploying to a larger number of client devices and want to run the CA slightly more securely. In this case, you'll need to generate the CA certificates as above, but you can ask your developers to generate their certificates in a far more user friendly way.
+
+Generating the certificate can now be done by using the Mac OS built in Certificate Assistant.  Simply open up the keychain access app, and from the menu, choose Certificate Assistant > Request a certificate from a certificate authority.  You need to enter the email address of you as a developer, the email of the certificate authority, and make sure that the keypair is generated as an RSA keypair (it should be the default).  This will send a CSR (or certSigningRequest) file to your CA email address.
+
+Now, as the CA, when you recieve this file, you can download it to a directory, and then sign the certificate request using `openssl x509 -req -in CLIENT.local.certSigningRequest -CA CA.pem -CAkey CA.key -CAcreateserial -out CLIENT.local.crt -days 365 -sha256   -extensions v3_req -extfile ext.txt`.  This will generate the signed `crt' file which can be emailed back to the developer.
+
+Once you get your crt file back, simply double click it and your Mac will import it into your keyring and the next time you use the AWS Workspaces client, it should connect perfectly.
+
+You'll note that you don't need to create the PFX file.  I had a lot of problems originally with the certificates, and had to create a pfx file to get the Mac to import it, but if you do it this way, it doesn't seem to need it.  I think that's because the key file is already imported into your local keychain, so the certificate has a match and is therefore trusted.
+
+I've updated the github scripts to have a CA directory and a client directory, and there is a sign_request.sh in the CA directory to perform the above signing for you.
